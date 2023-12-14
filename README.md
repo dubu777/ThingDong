@@ -8,7 +8,7 @@
 
 ## **✅ 프로젝트 목표**
 
-![image](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/cdfd55a8-16a3-4830-8f99-c3f88007427a)
+![image](https://github.com/tjsduq0423/project_thingdong/assets/84220249/7708c82b-0723-47b0-ac44-853896d2f3e6)
 
 ## **✅ 프로젝트 소개**
 
@@ -22,7 +22,7 @@
 
 ## **✅ 멤버소개**
 
-![Untitled](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/0e7e4c8a-2c9b-48b7-ade1-0c0f91480704)
+![image](https://github.com/tjsduq0423/project_thingdong/assets/84220249/dda08ac1-5c00-40d8-9017-c793cb47890e)
 
 ## **✅ 기술스택**
 
@@ -81,141 +81,138 @@
 
 ## **✅ 시스템 아키텍쳐**
 
-![시스템아키텍처](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/ed0aebbe-5779-489d-9b3a-5e1c026ef4a5)
+![시스템아키텍처](https://github.com/tjsduq0423/project_thingdong/assets/84220249/e71df6cf-9056-43c9-83f3-b5b818ea858d)
 
 ## **✅ 스마트 싱스 제어**
 
 ### 전구 색상 제어
 
-![bulb_color_change](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/ae5e7415-b4e8-43a5-ae0b-3b837735d5ac)
+![bulb_color_change](https://github.com/tjsduq0423/project_thingdong/assets/84220249/4100d824-db2a-49a9-99d2-6ab127a7ffb0)
 
 ### 전구 on/off
 
-![bulb_off_and_on](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/6c3e2cda-4ee7-4ab2-a232-715173d9a77f)
+![bulb_off_and_on](https://github.com/tjsduq0423/project_thingdong/assets/84220249/42a7dc37-f2ac-4993-8f07-d230df96ceb1)
 
-![bulb_off](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/e076df77-1369-4a38-b356-f3e16c5cac46)
+![bulb_off](https://github.com/tjsduq0423/project_thingdong/assets/84220249/e5a37da7-376f-4372-9535-d6ec30e04095)
 
 ### 커튼 on/off
 
-![curtain_on](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/f424aa1b-40a5-4f1e-841b-2505a0905728)
+![curtain_on](https://github.com/tjsduq0423/project_thingdong/assets/84220249/7aabcde5-6249-4065-90ae-8ee9b39322ea)
 
-![curtain_off](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/391017d0-4241-4b4e-a0c5-e7bc0c4bcdd8)
+![curtain_off](https://github.com/tjsduq0423/project_thingdong/assets/84220249/c9b67a0c-0d8d-4b74-ac7e-3ccf01b7ba75)
 
 ### 스위치 on/off
 
-![switch_on](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/19554167-c0ae-411b-9a60-a9c1d75876cf)
+![switch_on](https://github.com/tjsduq0423/project_thingdong/assets/84220249/f5b1b44b-9d20-4e8b-8cda-8fc700c5a2d8)
 
-![switch_off](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/5d13d5e3-df0b-4bb6-86e7-b624c4b9dc65)
+![switch_off](https://github.com/tjsduq0423/project_thingdong/assets/84220249/132b2da4-8797-4020-aeb0-094a456a620c)
 
 ### **✅ 기능 소개**
 
-### 스플래쉬
-
-![thingdong_splash](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/a0238940-9d9f-41fc-88b3-d89aabb4c43c)
-
 ### 랜딩 페이지
 
-![01_landing](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/2a4f66a1-9b26-44c8-b15e-cf144e721c3c)
+![01_landing](https://github.com/tjsduq0423/project_thingdong/assets/84220249/f44ffd6f-2403-45df-a40f-9b110499aa66)
 
 ### 스마스 싱스 연동 \_ 전등
 
-![02_room_light](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/db82b744-9b0b-420c-ad1f-9b1f93222a14)
+![02_room_light](https://github.com/tjsduq0423/project_thingdong/assets/84220249/451c899d-fb54-4b4d-ad95-9d90e2f8c715)
 
 ### 방 색깔 \_ 1
 
-![03_change_room_color_1](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/1f706b5a-c3a5-4db8-be4e-cc11a103a7ea)
+![03_change_room_color_1](https://github.com/tjsduq0423/project_thingdong/assets/84220249/c1140e56-1648-4f59-86b3-6550fab8f08e)
 
 ### 방 색깔\_1
 
-![03_change_room_color_2](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/5dd38cc4-2163-4489-b2c0-374b21927e2b)
+![03_change_room_color_2](https://github.com/tjsduq0423/project_thingdong/assets/84220249/eb906a0f-f906-4876-9651-e9b0c1e2f356)
+
 
 ### 마이룸 확인
 
-![04_my_room](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/9831e56e-940e-41ee-af44-ff7b771b52b4)
+![04_my_room](https://github.com/tjsduq0423/project_thingdong/assets/84220249/09e8f3cc-d2ef-42dc-b6e9-a3a429530f79)
+
 
 ### 띵구(친구) 룸\_1
 
-![05_thinggu_room_1](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/b07aec49-79bc-4ef1-aa86-48c9895c5c69)
+![05_thinggu_room_1](https://github.com/tjsduq0423/project_thingdong/assets/84220249/329ab977-5ddb-4ac5-92fe-c3f3510814ba)
 
 ### 띵구(친구) 룸\_2
 
-![05_thinggu_room_2](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/9e9f7c34-1c8b-43f3-a682-07dc87106591)
+![05_thinggu_room_2](https://github.com/tjsduq0423/project_thingdong/assets/84220249/d87d90e2-817b-4bfe-8659-91d93d073d84)
 
 ### 띵구(친구) 룸\_3
 
-![05_thinggu_room_3](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/c851ab31-84bf-45ac-b2a6-8f4c11677d57)
+![05_thinggu_room_3](https://github.com/tjsduq0423/project_thingdong/assets/84220249/3e1de94b-c269-41ca-816d-9a6a4766e750)
 
 ### 띵구(친구) 룸\_4
 
-![05_thinggu_room_4](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/3571ef2f-71c3-455f-9c59-95267a819c2c)
+![05_thinggu_room_4](https://github.com/tjsduq0423/project_thingdong/assets/84220249/161e09c9-c9c2-489c-b87d-dd68a30d7919)
 
 ### 띵구(친구) 룸\_5
 
-![05_thinggu_room_5](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/24b533b3-b4bb-4ea3-8b28-887f6ac79310)
+![05_thinggu_room_5](https://github.com/tjsduq0423/project_thingdong/assets/84220249/84c25892-2a93-43d7-a945-c73ee2710f95)
 
 ### 친구 찾기
 
-![06_finding_thinggu](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/93979f23-7e43-488b-a74a-9e9946bd6813)
+![06_finding_thinggu](https://github.com/tjsduq0423/project_thingdong/assets/84220249/e28a8cdc-dccc-4582-81bd-4f46e348ce08)
 
 ### 방명록 조회
 
-![07_guestbook](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/dc395237-7dde-4e29-9247-d42d6e7f8ad1)
+![07_guestbook](https://github.com/tjsduq0423/project_thingdong/assets/84220249/e2569a8d-8679-42d9-a110-ba780e1c7175)
 
 ### 스마트 싱스 연동하기
 
-![08_things_1](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/4c71e226-ad1b-4701-bb8c-79905347ce30)
+![08_things_1](https://github.com/tjsduq0423/project_thingdong/assets/84220249/4c30b663-69cc-4685-ac2a-884960236a8d)
 
 ### 스마트 싱스 기기 상태 제어
 
-![08_things_2](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/23796784-2684-40bf-8da7-414601dac3f7)
+![08_things_2](https://github.com/tjsduq0423/project_thingdong/assets/84220249/74b04d54-63a7-4d30-976a-ee1c6e34d3f3)
 
 ### 스마트 싱스 기기 확인
 
-![08_things_3](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/f3937c0c-12ee-4a72-9cd8-fa1ed4180fd5)
+![08_things_3](https://github.com/tjsduq0423/project_thingdong/assets/84220249/e1655899-c7fa-4846-8735-9498b9c714c2)
 
 ### 인벤토리
 
-![09_inventory](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/73a3daf2-0c56-4db9-a2f3-f9b0d3180502)
+![09_inventory](https://github.com/tjsduq0423/project_thingdong/assets/84220249/e887947f-d8c7-490d-8ce8-e45f1a3f3a91)
 
 ### 언박싱\_1
 
-![10_unboxthing_1](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/5d491f0a-877e-474c-8401-57e4725df4f8)
+![10_unboxthing_1](https://github.com/tjsduq0423/project_thingdong/assets/84220249/c1cf67e6-0c33-4c61-975c-f9e50a5bb851)
 
 ### 언박싱\_2
 
-![10_unboxthing_2](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/baece582-9157-4ba7-b118-6d3182418aed)
+![10_unboxthing_2](https://github.com/tjsduq0423/project_thingdong/assets/84220249/92f5b937-46fb-4151-b336-05e33a97fd47)
 
 ### 언박싱\_3
 
-![10_unboxthing_3](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/3a804fca-a8d0-4c47-8977-3d776d554fc4)
+![10_unboxthing_3](https://github.com/tjsduq0423/project_thingdong/assets/84220249/aa81a14b-a5f9-492f-adb3-136bb37073ca)
 
 ### 3D_room 제어1
 
-![11_change_my_room_1](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/f9848065-9207-42a5-afa0-f85b2e4255e6)
+![11_change_my_room_1](https://github.com/tjsduq0423/project_thingdong/assets/84220249/ba2ca8cf-5d12-4b5e-aea7-16f804606e2a)
 
 ### 3D_room 제어2
 
-![11_change_my_room_2](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/295e0905-2ad6-460f-8923-cce39a722716)
+![11_change_my_room_2](https://github.com/tjsduq0423/project_thingdong/assets/84220249/58fb9600-4b99-4f36-a530-14d182ad94c8)
 
 ### 3D_room 제어3
 
-![11_change_my_room_3](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/23a6d9c9-8985-4a2f-bbc8-96ea278964ae)
+![11_change_my_room_3](https://github.com/tjsduq0423/project_thingdong/assets/84220249/ba25c950-acf6-4d6c-807b-8a52d90075f6)
 
 ### 3D_room 제어4
 
-![11_change_my_room_4](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/304d730c-dd60-4e03-ad0e-a58a7c6e7f26)
+![11_change_my_room_4](https://github.com/tjsduq0423/project_thingdong/assets/84220249/c913dd81-651b-4771-99f5-e05fb094e266)
 
 ### 띵(화폐) 내역 조회
 
-![12_thingstory](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/969d8dde-7d3e-46dd-8ce4-be0889360976)
+![12_thingstory](https://github.com/tjsduq0423/project_thingdong/assets/84220249/1ac98cba-d492-41f4-8821-2d04a65e9b3a)
 
 ## **✅ 활용 기술, 기술 설명**
 
 ### SmartThings , SSE
 
 스마트 씽스 기기 연동을 위한 SmartApp개발(by SmartThings Node.js SDK)과 SSE 적용
-
-![Untitled](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/bba5254a-9af9-44a9-945b-43432eab54ec)
+![image](https://github.com/tjsduq0423/project_thingdong/assets/84220249/3fe4bc0a-22a3-41a6-a475-f8ec07c420f4)
 
 SmartThings Node.js SDK는 삼성 스마트 띵스와 외부 통합을 구현할 때 필수적인 도구입니다. SDK를 사용하면, 개발자는 보다 쉽고 빠르게 통합을 구현할 수 있습니다.
 
@@ -226,51 +223,52 @@ SmartThings Node.js SDK는 삼성 스마트 띵스와 외부 통합을 구현할
 **[스마트 띵스 NodeJs SDK]**
 
 [GitHub - SmartThingsCommunity/smartapp-sdk-nodejs: Javascript/NodeJS SDK to create SmartThings SmartApps](https://github.com/SmartThingsCommunity/smartapp-sdk-nodejs)
-![image](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/3fef5570-3e83-41cd-a5f2-7e648cafa06d)
 
-![Untitled 3](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/c91094cd-5c2c-44b7-946e-18a65b6fcd42)
+![Untitled 1](https://github.com/tjsduq0423/project_thingdong/assets/84220249/bafce5b6-4b33-4493-bdeb-28d633a6f51b)
+
+![Untitled 3](https://github.com/tjsduq0423/project_thingdong/assets/84220249/054d6950-a1ab-48a0-abf8-398b8e2f1b4b)
 
 - `SmartAPP` 을 통해 얻은 기기 데이터를 실시간으로 클라이언트에 전송하기 위해 SSE 방식을 채택하였습니다.
 
 ### Shape-E
 
-![Untitled 4](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/a6ba1658-9598-4a6b-a9da-e85289db0f20)
+![Untitled 4](https://github.com/tjsduq0423/project_thingdong/assets/84220249/d9db8014-9857-4867-baa3-9d768e38f675)
 
 [GitHub - openai/shap-e: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 
 해당 모델에서는 고해상도의 이미지 추론 이 필요하지 않다는 점을 활용하여 연산에 사용되는 `파라미터 정밀도를 낮춰 메모리를 최적화` 하였습니다. 또한, 문장에서 중요한 단어들만의 관계를 계산하도록 최적화하는 `xFormers`를 적용 메모리 소비량을 줄이고 연산 속도를 향상 시켰습니다.
 
-![Untitled 5](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/e9228def-5676-4973-b3ac-708523faac64)
+![Untitled 5](https://github.com/tjsduq0423/project_thingdong/assets/84220249/9a53daa8-933a-4798-918a-4f14a2becff3)
 
 또한 최적화 전 후 속도 비교를 위해 10개의 오브제를 생성하였고 10개의 오브제 생성부터 변환 저장 전송 모든 시간이 최적화 전`507초`에서 최적화 후 `146초` 까지 줄어들며 `244%의 속도 향상`을 이루었습니다.
 
-![Untitled 6](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/befd27e8-5130-47a2-9a23-792e1d8bbdc9)
+![Untitled 6](https://github.com/tjsduq0423/project_thingdong/assets/84220249/d7ac13f4-aeaf-4e25-a307-5e19ff1ccf3d)
 
 ### Kubernetes
 
-![Untitled 7](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/d9d8110c-a524-4d11-b81e-81237d6480dd)
+![Untitled 7](https://github.com/tjsduq0423/project_thingdong/assets/84220249/db9625c5-c18c-4c8d-86b5-302d657c4734)
 
 쿠버네티스의 로드밸런싱의 성능 향상 정도를확인하기 위해 `K6`로 부하테스트를, `그라파나`를 통해 시각화를 진행하였습니다.
 
 - 제일 중요한 통계 데이터는 p95(95%의 통계 대표값)입니다.
 
-![Untitled 8](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/66d95950-e454-48f8-aa87-d6df48a49d18)
+![Untitled 8](https://github.com/tjsduq0423/project_thingdong/assets/84220249/45c04ae4-c5cb-4f6b-867a-eb766dfaa1ee)
 
 - 1000명의 사용자가 동시접속 했을 때 단일 인스턴스의 경우 95%에서 `161ms` 로드밸런싱의 경우 `135ms` 를 기록하였습니다
 
-![Untitled 9](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/da5f8156-59a5-43e5-874b-e709df17aa24)
+![Untitled 9](https://github.com/tjsduq0423/project_thingdong/assets/84220249/981a27c0-581e-4975-be07-4bf2b2d14830)
 
 - 더 높은 부하인 2000명 `단일 인스턴스는  806ms`를 `로드밸런싱 결과에서 505ms`를 기록하며 큰차이를 보이는 것을 확인 할 수있었습니다
 
-![Untitled 10](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/918a702b-74de-4cb1-994e-92a3d27fa028)
+![Untitled 10](https://github.com/tjsduq0423/project_thingdong/assets/84220249/c79556cd-1cbe-4eaa-8007-dfb58e39ef88)
 
 ## **✅ 산출물(ERD, 명세서)**
 
-![image](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/a83c2b9e-9f8f-4a2f-b0b1-61eaf70f5a0b)
+![image](https://github.com/tjsduq0423/project_thingdong/assets/84220249/d7fb5aa7-b44d-4062-a0f9-af44426cb034)
 
 ## ERD
 
-![Untitled 11](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/81b22938-bbf8-4984-b7aa-821642e4ac02)
+![Untitled 11](https://github.com/tjsduq0423/project_thingdong/assets/84220249/88a4a8f3-4a39-4ec4-b1b9-e9d0b3e367ee)
 
 ## API 문서
 
@@ -317,17 +315,15 @@ SSAFY의 마지막 프로젝트로 진행한 띵동은 SSAFY에서 처음 접했
 ## **✅ 띵구룸들~.~**
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/dbafd6a9-cc3d-45a1-adf6-a5c32b1d58e2" alt="대체_텍스트" style="width: 48%;">
-  <img src="https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/6606073f-0892-44d9-94b2-515e2fb180e7" alt="대체_텍스트" style="width: 48%;">
+  <img src="https://github.com/tjsduq0423/project_thingdong/assets/84220249/9ad99c07-7b1b-4fce-bb47-6f07d6a02a61" alt="대체_텍스트" style="width: 48%;">
+  <img src="https://github.com/tjsduq0423/project_thingdong/assets/84220249/26e02b4b-96cd-4c16-8312-a0739c35fcb0" alt="대체_텍스트" style="width: 48%;">
 </div>
 
 ## **✅ 추억들~.~(우리사진)**
 
-![KakaoTalk_20231124_173446953_01](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/7d20b1fa-16b3-4881-97c6-4a95ac0a8e2a)
-![KakaoTalk_20231124_173446953_06](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/226f6afa-c24f-4277-9956-0f3e64f53b04)
-![KakaoTalk_20231124_173446953_10](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/85cddd5c-69ed-4cee-9d36-6901fe57cbd8)
-![KakaoTalk_20231124_173446953_12](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/319788bf-89b2-46ab-8d39-c392300fa8b8)
-![KakaoTalk_20231124_173717270_03](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/6f21324b-a65b-44bc-97e0-9377b1daa5a4)
-![KakaoTalk_20231124_173726311_02](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/47b1bf30-cead-414c-98d2-d7fb749138e5)
-![KakaoTalk_20231124_173726311_03](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/47e93287-9450-446e-97d6-8c410da4f338)
-![KakaoTalk_20231124_174159156_03](https://github.com/tjsduq0423/project_thingdong_ssafy/assets/84220249/5eb15415-5d92-4496-9fd2-8883947baa1f)
+![KakaoTalk_20231124_173446953_01](https://github.com/tjsduq0423/project_thingdong/assets/84220249/afb51f29-d49e-4dd8-b117-306b9fcced68)
+![KakaoTalk_20231124_173446953_06](https://github.com/tjsduq0423/project_thingdong/assets/84220249/ed467d9e-2068-4ba2-8a9e-24875aff83e6)
+![KakaoTalk_20231124_173446953_12](https://github.com/tjsduq0423/project_thingdong/assets/84220249/05a64449-9260-4042-9333-3e111c2833ef)
+![KakaoTalk_20231124_173726311_02](https://github.com/tjsduq0423/project_thingdong/assets/84220249/5212db59-0959-4cbf-affd-dfff12648e09)
+![KakaoTalk_20231124_173726311_03](https://github.com/tjsduq0423/project_thingdong/assets/84220249/482c76bf-dcb7-42fb-962d-e7a3ecffd099)
+
